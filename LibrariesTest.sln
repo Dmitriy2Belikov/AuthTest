@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryTest", "BPM with ASP.NET\LibraryTest.csproj", "{F16C19EF-AFCF-4B71-BD55-CDB4B1BB4D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16C19EF-AFCF-4B71-BD55-CDB4B1BB4D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16C19EF-AFCF-4B71-BD55-CDB4B1BB4D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16C19EF-AFCF-4B71-BD55-CDB4B1BB4D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16C19EF-AFCF-4B71-BD55-CDB4B1BB4D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7380A51-A6B6-455A-A5F4-370EE1DF36A4}
+	EndGlobalSection
+EndGlobal

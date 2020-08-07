@@ -1,0 +1,35 @@
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.exe
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.AssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.TagHelpers.input.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.TagHelpers.output.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.RazorCoreGenerate.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\BPM with ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\BPM with ASP.NET.StaticWebAssets.xml
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.deps.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.runtimeconfig.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.runtimeconfig.dev.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.Views.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BPM with ASP.NET.Views.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.Views.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.csproj.CopyComplete
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\BPM with ASP.NET.genruntimeconfig.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\NLog.dll

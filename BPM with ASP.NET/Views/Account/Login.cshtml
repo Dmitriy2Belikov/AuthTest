@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+@model BPM_with_ASP.NET.Models.Account.LoginViewModel
+
+<h1>Вход в систему</h1>
+
+<form asp-action="Login" asp-controller="Account" asp-anti-forgery="true">
+
+    <div class="form-group input">
+        <label asp-for="Email">
+            <input type="email" asp-for="Email" placeholder="Email"/>
+        </label>
+    </div>
+
+    <div class="form-group input">
+        <label asp-for="Password">
+            <input class="input-group" type="password" asp-for="Password" placeholder="Password"/>
+        </label>
+    </div>
+
+    <div asp-validation-summary="All">
+    </div>
+
+    <button class="btn btn-primary ml-120">Войти</button>
+</form>
