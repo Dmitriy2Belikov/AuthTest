@@ -96,7 +96,10 @@ namespace BPM_with_ASP.NET.Services
 
         public void RemoveRange(IEnumerable<User> users)
         {
-            var userRoles = users.SelectMany(u => _userRoleRepository.GetAll().Where(ur => ur.User.Id == u.Id));
+            var userRoles = users.SelectMany(
+                u => _userRoleRepository
+                .GetAll()
+                .Where(ur => ur.User.Id == u.Id));
 
             _userRoleRepository.RemoveRange(userRoles);
 
@@ -105,11 +108,7 @@ namespace BPM_with_ASP.NET.Services
 
         public IEnumerable<Role> GetUserRoles(Guid id)
         {
-            var userRoles = _userRoleRepository
-                .GetAll()
-                .Where(u => u.User.Id == id);
-
-            var roles = userRoles.Select(r => _roleRepository.Get(r.Role.Id));
+            var roles = _userRepository.GetUserRoles(id);
 
             return roles;
         }

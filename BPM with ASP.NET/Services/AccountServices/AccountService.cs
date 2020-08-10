@@ -3,6 +3,7 @@ using BPM_with_ASP.NET.Services.AccountServices.Interfaces;
 using BPM_with_ASP.NET.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using System;
@@ -24,7 +25,7 @@ namespace BPM_with_ASP.NET.Services.AccountServices
             _roleService = roleService;
         }
 
-        public User Authenticate(string email, string password, HttpContext httpContext)
+        public ClaimsIdentity GetIdentity(string email, string password)
         {
             var user = _userService.Get(email);
 
@@ -43,18 +44,20 @@ namespace BPM_with_ASP.NET.Services.AccountServices
 
                     claims.AddRange(roleClaims);
 
-                    var identity = new ClaimsIdentity(claims, "ApplicationCookie", ClaimsIdentity.DefaultNameClaimType, ClaimsIdentity.DefaultRoleClaimType);
+                    var identity = new ClaimsIdentity(
+                        claims, 
+                        "Token", 
+                        ClaimsIdentity.DefaultNameClaimType, 
+                        ClaimsIdentity.DefaultRoleClaimType);
 
-                    httpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(identity));
-
-                    return user;
+                    return identity;
                 }
             }
 
             return null;
         }
 
-        public User Register(User user, IEnumerable<Role> roles)
+        public Data.Models.User Register(Data.Models.User user, IEnumerable<Role> roles)
         {
             var exists = _userService.Get(user.Email);
 

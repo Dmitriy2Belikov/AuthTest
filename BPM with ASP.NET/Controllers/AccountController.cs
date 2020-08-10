@@ -3,9 +3,17 @@ using BPM_with_ASP.NET.Models.Account;
 using BPM_with_ASP.NET.Services;
 using BPM_with_ASP.NET.Services.AccountServices.Interfaces;
 using BPM_with_ASP.NET.Services.Interfaces;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 using System;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace BPM_with_ASP.NET.Controllers
 {
@@ -29,11 +37,34 @@ namespace BPM_with_ASP.NET.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = _accountService.Authenticate(loginViewModel.Email, loginViewModel.Password, HttpContext);
+                var identity = _accountService.GetIdentity(loginViewModel.Email, loginViewModel.Password);
 
-                if (user != null)
+                if (identity != null)
                 {
-                    return Ok(user);
+                    var now = DateTime.UtcNow;
+
+                    var jwt = new JwtSecurityToken(
+                            issuer: AuthOptions.ISSUER,
+                            audience: AuthOptions.AUDIENCE,
+                            notBefore: now,
+                            claims: identity.Claims,
+                            expires: now.Add(TimeSpan.FromMinutes(AuthOptions.LIFETIME)),
+                            signingCredentials: new SigningCredentials(AuthOptions.GetSymmetricSecurityKey(), SecurityAlgorithms.HmacSha256));
+
+                    var encodedJwt = new JwtSecurityTokenHandler().WriteToken(jwt);
+
+                    var identityRoles = identity.Claims
+                        .Where(c => c.Type == ClaimTypes.Role)
+                        .Select(c => c.Value);
+
+                    var response = new
+                    {
+                        access_token = encodedJwt,
+                        username = identity.Name,
+                        roles = identityRoles
+                    };
+
+                    return Ok(response);
                 }
 
                 return BadRequest("Неправильный логин или пароль");
@@ -42,6 +73,13 @@ namespace BPM_with_ASP.NET.Controllers
             {
                 return BadRequest("Заполните форму правильно");
             }
+        }
+
+        [HttpGet("logout")]
+        [Authorize]
+        public IActionResult Logout()
+        {
+            return Ok();
         }
 
         [HttpPost("register")]
@@ -73,6 +111,7 @@ namespace BPM_with_ASP.NET.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize]
         public IActionResult EditProfile(Guid id, EditUserViewModel editUserViewModel)
         {
             if (ModelState.IsValid)
@@ -121,6 +160,7 @@ namespace BPM_with_ASP.NET.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
         public IActionResult DeleteProfile(Guid id)
         {
             _userService.Remove(id);

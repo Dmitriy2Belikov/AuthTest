@@ -26,12 +26,15 @@ namespace BPM_with_ASP.NET.Data.Repositories
             return user;
         }
 
-        //public IEnumerable<Role> GetUserRoles(Guid id)
-        //{
-        //    var roles = _context.UserRoles
-        //        .Include(u => u.UserId == id)
-        //        .Fi
-                
-        //}
+        public IEnumerable<Role> GetUserRoles(Guid id)
+        {
+            var roles = _context.UserRoles
+                .Include(u => u.User)
+                .Include(r => r.Role)
+                .Where(u => u.User.Id == id)
+                .Select(r => r.Role);
+
+            return roles;
+        }
     }
 }

@@ -1,10 +1,16 @@
 ﻿using BPM_with_ASP.NET.Data.Models;
+using BPM_with_ASP.NET.Models.Account;
 using BPM_with_ASP.NET.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.Extensions.Logging;
 using NLog;
 using System;
+using System.IO;
+using System.Net.Mime;
+using System.Reflection;
+using System.Xml.Schema;
 
 namespace LibraryTest.NET.Controllers
 {
@@ -21,11 +27,26 @@ namespace LibraryTest.NET.Controllers
             _roleService = roleService;
         }
 
-        [Authorize]
+        [HttpGet]
+        public IActionResult Login()
+        {
+            var path = @"C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\wwwroot\Login.html";
+
+            var html = string.Empty;
+
+            using (var sr = new StreamReader(path))
+            {
+                html = sr.ReadToEnd();
+            }
+
+            return Content(html, "text/html");
+        }
+
+        [Authorize(Roles = "Admin")]
         [HttpGet("index")]
         public IActionResult Index()
         {
-            return Ok(User.Identity.Name);
+            return Ok("home/index");
         }
     }
 }

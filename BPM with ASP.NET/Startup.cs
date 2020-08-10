@@ -1,3 +1,4 @@
+using BPM_with_ASP.NET;
 using BPM_with_ASP.NET.Data.Repositories;
 using BPM_with_ASP.NET.Data.Repositories.Interfaces;
 using BPM_with_ASP.NET.Services;
@@ -6,18 +7,15 @@ using BPM_with_ASP.NET.Services.AccountServices.Interfaces;
 using BPM_with_ASP.NET.Services.Interfaces;
 using LibraryTest.NET.Data;
 using LibraryTest.NET.Middlewares;
-using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using NLog;
-using NLog.Fluent;
-using System;
+using Microsoft.IdentityModel.Tokens;
 
 namespace LibraryTest.NET
 {
@@ -59,10 +57,27 @@ namespace LibraryTest.NET
                 options.User.RequireUniqueEmail = true;
             });
 
-            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-                .AddCookie(options =>
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
                 {
-                    options.LoginPath = new PathString("/Account/Login");
+                    options.RequireHttpsMetadata = true;
+
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+
+                        ValidIssuer = AuthOptions.ISSUER,
+
+                        ValidateAudience = true,
+
+                        ValidAudience = AuthOptions.AUDIENCE,
+
+                        ValidateLifetime = true,
+
+                        IssuerSigningKey = AuthOptions.GetSymmetricSecurityKey(),
+
+                        ValidateIssuerSigningKey = true
+                    };
                 });
 
             // Add controller with views
@@ -97,7 +112,7 @@ namespace LibraryTest.NET
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=account}/{action=login}/{id?}");
+                    pattern: "{controller=home}/{action=login}/{id?}");
             });
         }
     }

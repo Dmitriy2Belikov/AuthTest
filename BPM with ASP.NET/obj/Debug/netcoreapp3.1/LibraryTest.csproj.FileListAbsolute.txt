@@ -56,8 +56,6 @@ C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\
 C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache
 C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
-C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -119,3 +117,13 @@ C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netco
 C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.dll
 C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.pdb
 C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
