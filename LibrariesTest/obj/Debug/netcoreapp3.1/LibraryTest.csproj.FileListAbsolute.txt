@@ -1,0 +1,198 @@
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.exe
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.TagHelpers.input.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.TagHelpers.output.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorCoreGenerate.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CopyComplete
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\LibraryTest.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\LibraryTest.StaticWebAssets.xml
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.deps.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.dev.json
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.Views.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.Views.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.Views.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.exe
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.deps.json
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.dev.json
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.pdb
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.Views.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\LibraryTest.Views.pdb
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorAssemblyInfo.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorAssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.TagHelpers.input.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.TagHelpers.output.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorCoreGenerate.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorTargetAssemblyInfo.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.RazorTargetAssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.Views.pdb
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\LibraryTest.StaticWebAssets.Manifest.cache
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\LibraryTest.StaticWebAssets.xml
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.dll
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.pdb
+C:\Users\Дмитрий\Desktop\AuthTest-master\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\obj\Debug\netcoreapp3.1\LibraryTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BPM with ASP.NET\BPM with ASP.NET\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.exe
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.deps.json
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.json
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.dev.json
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.Views.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\LibraryTest.Views.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.TagHelpers.input.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.TagHelpers.output.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.RazorCoreGenerate.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.Views.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CopyComplete
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\staticwebassets\LibraryTest.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\staticwebassets\LibraryTest.StaticWebAssets.xml
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.dll
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.pdb
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BPM with ASP.NET\LibrariesTest\obj\Debug\netcoreapp3.1\LibraryTest.MvcApplicationPartsAssemblyInfo.cache
